@@ -3,7 +3,7 @@ AGENT_MAX_TOKENS = 4096
 
 # Limiares de aprovação do Aesthetic Auditor
 AESTHETIC_SCORE_THRESHOLD = 0.60   # Sa mínimo para aprovação
-CONVERSION_INDEX_THRESHOLD = 0.50  # Icf mínimo para aprovação
+CONVERSION_INDEX_THRESHOLD = 0.05  # Icf mínimo para aprovação (escala: receita/impressão)
 STORE_RATING_MIN = 4.2             # Avaliação mínima aceita pelo Product Scout
 
 # Dados de tendências 2026 embutidos (fonte: pesquisa de ecossistema Pinterest 2026)
