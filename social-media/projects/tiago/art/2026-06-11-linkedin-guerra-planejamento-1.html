@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    width: 1200px;
+    height: 1400px;
+    background: #0f1319;
+    font-family: -apple-system, 'Helvetica Neue', Arial, sans-serif;
+    color: #ffffff;
+    overflow: hidden;
+  }
+
+  .canvas {
+    width: 1200px;
+    height: 1400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 88px 96px;
+  }
+
+  /* TOPO */
+  .top {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .eyebrow {
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #c1392b;
+    margin-bottom: 32px;
+  }
+
+  .headline {
+    font-size: 72px;
+    font-weight: 800;
+    line-height: 1.05;
+    color: #ffffff;
+    letter-spacing: -2px;
+    max-width: 920px;
+  }
+
+  .headline .destaque {
+    color: #c1392b;
+  }
+
+  /* DADOS */
+  .dados {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    border-top: 1px solid #1f2937;
+    border-bottom: 1px solid #1f2937;
+    padding: 56px 0;
+  }
+
+  .dado {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    padding: 28px 0;
+    border-bottom: 1px solid #1a2030;
+  }
+
+  .dado:last-child {
+    border-bottom: none;
+  }
+
+  .dado-numero {
+    font-size: 64px;
+    font-weight: 900;
+    color: #ffffff;
+    letter-spacing: -3px;
+    line-height: 1;
+    min-width: 280px;
+    text-align: right;
+  }
+
+  .dado-numero .unidade {
+    font-size: 32px;
+    font-weight: 600;
+    color: #c1392b;
+    letter-spacing: -1px;
+  }
+
+  .dado-linha {
+    width: 2px;
+    height: 64px;
+    background: #c1392b;
+    flex-shrink: 0;
+  }
+
+  .dado-texto {
+    font-size: 24px;
+    color: #8899aa;
+    line-height: 1.35;
+    font-weight: 400;
+  }
+
+  /* INSIGHT */
+  .insight {
+    font-size: 34px;
+    font-weight: 600;
+    color: #dde3ed;
+    line-height: 1.35;
+    max-width: 860px;
+  }
+
+  .insight .forte {
+    color: #ffffff;
+  }
+
+  /* RODAPÉ */
+  .footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+
+  .autor {
+    font-size: 20px;
+    font-weight: 700;
+    color: #ffffff;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+  .autor-sub {
+    font-size: 15px;
+    color: #4a5568;
+    margin-top: 6px;
+    letter-spacing: 0.5px;
+  }
+
+  .badge {
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #2d3748;
+  }
+</style>
+</head>
+<body>
+<div class="canvas">
+
+  <div class="top">
+    <div class="eyebrow">Planejamento estratégico</div>
+    <div class="headline">
+      Hoje é só um dia<br><span class="destaque">comum</span><br>no planeta terra.
+    </div>
+  </div>
+
+  <div class="dados">
+    <div class="dado">
+      <div class="dado-numero">5<span class="unidade"> guerras</span></div>
+      <div class="dado-linha"></div>
+      <div class="dado-texto">conflitos ativos com<br>+10 mil mortes cada</div>
+    </div>
+    <div class="dado">
+      <div class="dado-numero">2<span class="unidade">%→14,5%</span></div>
+      <div class="dado-linha"></div>
+      <div class="dado-texto">Selic em 5 anos</div>
+    </div>
+    <div class="dado">
+      <div class="dado-numero">−25<span class="unidade">%</span></div>
+      <div class="dado-linha"></div>
+      <div class="dado-texto">desvalorização do real<br>em 2024</div>
+    </div>
+  </div>
+
+  <div class="insight">
+    A instabilidade não é exceção.<br>
+    É a <span class="forte">condição de operação.</span>
+  </div>
+
+  <div class="footer">
+    <div>
+      <div class="autor">Tiago Santos</div>
+      <div class="autor-sub">Conselheiro</div>
+    </div>
+    <div class="badge">tiagosantos.com.br</div>
+  </div>
+
+</div>
+</body>
+</html>
