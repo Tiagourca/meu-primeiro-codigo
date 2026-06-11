@@ -62,6 +62,12 @@ Os e-mails mostram a base. No LinkedIn, a voz mantém o mesmo DNA mas abre mais:
 - Nunca usar travessão (—) nem outros símbolos tipográficos formais: substituir por ponto, vírgula ou nova frase
 - Nunca soar como IA: sem construções simétricas demais, sem listas numeradas em post de texto, sem vocabulário que nenhum humano usa ao falar
 
+## Critérios mínimos de qualidade por post
+
+Nenhum post é entregue sem atingir os dois critérios abaixo:
+- **Gancho:** nota mínima 9. Um hook abaixo de 9 é reescrito antes de qualquer outra revisão.
+- **Média geral:** mínimo 8,6. Se a média não atingir esse patamar, o post é revisado até chegar lá.
+
 ---
 
 ## Exemplos de abertura (padrão Tiago)
