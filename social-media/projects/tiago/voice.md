@@ -48,7 +48,10 @@ Os e-mails mostram a base. No LinkedIn, a voz mantém o mesmo DNA mas abre mais:
 - Usar parágrafos curtos (1-3 linhas) para manter ritmo
 - Contar o que aconteceu de verdade — o erro, a virada, o aprendizado
 - Fechar com uma frase que faça o leitor refletir ou agir
-- Usar números e fatos concretos quando existirem
+- Usar dados, números e fatos concretos para embasar o argumento: sem dado, sem afirmação
+- Construir contexto antes da conclusão: o leitor precisa sentir o problema antes de ouvir a resposta
+- Posts no LinkedIn devem ter entre 300 e 500 palavras: longos o suficiente para desenvolver o argumento, curtos o suficiente para ser lido até o fim
+- Exemplos preferencialmente da realidade brasileira: Selic, câmbio, setor específico, momento econômico do país
 
 **Não fazer:**
 - Nunca abrir com "Hoje quero falar sobre..." ou "Vim aqui compartilhar..."
