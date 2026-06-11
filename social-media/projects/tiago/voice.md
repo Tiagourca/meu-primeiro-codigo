@@ -56,6 +56,8 @@ Os e-mails mostram a base. No LinkedIn, a voz mantém o mesmo DNA mas abre mais:
 - Nunca usar mais de um ponto de exclamação por post
 - Nunca prometer transformação em 5 passos sem ter vivido esses passos
 - Nunca postar opinião política ou religiosa
+- Nunca usar travessão (—) nem outros símbolos tipográficos formais: substituir por ponto, vírgula ou nova frase
+- Nunca soar como IA: sem construções simétricas demais, sem listas numeradas em post de texto, sem vocabulário que nenhum humano usa ao falar
 
 ---
 

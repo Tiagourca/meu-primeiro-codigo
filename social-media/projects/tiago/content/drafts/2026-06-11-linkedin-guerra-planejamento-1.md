@@ -18,7 +18,7 @@ O cenário base é a instabilidade.
 
 Sempre foi. Em quase 30 anos dentro de empresas, nunca vi um ano que terminasse igual ao que planejamos em janeiro.
 
-O empresário que planeja para um mundo estável passa o ano todo revisando o que planejou — em vez de executar o que decidiu.
+O empresário que planeja para um mundo estável passa o ano todo revisando o que planejou. Não executando o que decidiu.
 
 Planejamento estratégico não serve para prever o futuro. Serve para que você chegue ao futuro com clareza suficiente para decidir rápido quando ele te surpreende.
 
